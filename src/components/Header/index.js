@@ -6,7 +6,7 @@ export default function index() {
     <header className="header">
       <div>
         <img
-          src="https://github.com/raelalves182.png"
+          src="https://github.com/gabrielcarvalh0.png"
           alt="Logo"
           layout='fill'
         />

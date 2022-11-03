@@ -1,3 +1,5 @@
+
+
 section {
   color: white;
   background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
@@ -17,15 +19,28 @@ section {
   ul {
     display: flex;
     flex-wrap: wrap;
-    gap: 16px;
+    gap: 21px;
     margin-top: 24px;
+    align-items: center;
+    justify-content: center;
 
     li {
       transition: .3s;
+
+      button {
+        background: transparent;
+        border: none;
+      }
     }
 
     li:hover {
       transform: scale(1.1);
+    }
+
+    a {
+      svg {
+        font-size: 36px;
+      }
     }
   }
 
