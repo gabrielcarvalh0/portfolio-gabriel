@@ -90,7 +90,7 @@ const CardOne = () => {
         <div>
           <h2>Aplicações desenvolvidas</h2>
           <p>
-            Conheça sobre meu portifólio e criações desenvolvidas ao longo da
+            Conheça sobre meu portfólio e criações desenvolvidas ao longo da
             minha carreira até agora {`${day}/${month}/${year}`}
           </p>
 
