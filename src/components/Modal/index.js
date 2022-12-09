@@ -23,6 +23,7 @@ export function Modal(props) {
             </div>
 
             <p>{props.desc}</p>
+            <p>{props.tolls}</p>
           </div>
         </div>
       </div>
